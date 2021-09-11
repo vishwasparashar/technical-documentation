@@ -1,0 +1,85 @@
+insta link:https://www.instagram.com/project_stack/
+youtube link:https://www.youtube.com/channel/UChGhaeFid0L1wM1eKb2fZnA/videos
+facebook link:https://www.facebook.com/Project-stack-100511835698824/
+
+
+
+
+
+
+
+data science
+
+    
+                    Data Science is a field that gives insights from structured and unstructured data, using different scientific methods and algorithms, and consequently helps in generating insights, making predictions and devising data driver solutions. It uses a large amount of data to get meaningful insights using statistics and computation for decision making.
+
+                    The data used in Data Science is usually collected from different sources, such as e-commerce sites, surveys, social media, and internet searches. All this access to data has become possible due to the advanced technologies for data collection. This data helps in making predictions and providing profits to the businesses accordingly. Data Science is the most discussed topic in today’s time and is a hot career option due to the great opportunities it has to offer.
+                    Let’s try to understand why we need Data Science. There are several reasons for the increasing demand for Data Science. All the sectors are opting for Data Science as it offers a great way to enhance the business. Below are the reasons why Data Science is important.
+                    <h4>scope of data-science</h4>
+                   Data Science plays an utmost role in the healthcare industry. With the help of patient’s data, predictions can be made, if a person can get infected by a certain disease in the future. Therefore, they can follow some precautions and save themselves from the disease. This has become possible because of Data Science as it can find the relation between different features responsible for causing a disease.
+                   Data Science has played an essential role in the retail industry, also with the help of a recommendation system. Analyzing the shopping history of the customers, Data Science can get the set of products, which are bought by the customers together. Therefore, if any customer buys one or two products from that set, then he or she can be recommended with the other products in the set.
+                   Data Science has proved its benefits for e-commerce sites as well. This is done based on the browsing history of the customers. As an example, if a customer has searched for a particular item, then he or she can be recommended with similar products.
+
+
+devops
+                   Under a DevOps model, development and operations teams are no longer “siloed.” Sometimes, these two teams are merged into a single team where the engineers work across the entire application lifecycle, from development and test to deployment to operations, and develop a range of skills not limited to a single function.
+
+                    In some DevOps models, quality assurance and security teams may also become more tightly integrated with development and operations and throughout the application lifecycle. When security is the focus of everyone on a DevOps team, this is sometimes referred to as DevSecOps.
+                    These teams use practices to automate processes that historically have been manual and slow. They use a technology stack and tooling which help them operate and evolve applications quickly and reliably. These tools also help engineers independently accomplish tasks (for example, deploying code or provisioning infrastructure) that normally would have required help from other teams, and this further increases a team’s velocity.
+                    <h4>benefits of dev-ops</h4>
+                    <b>Speed</b> 
+                    Move at high velocity so you can innovate for customers faster, adapt to changing markets better, and grow more efficient at driving business results. The DevOps model enables your developers and operations teams to achieve these results. For example, microservices and continuous delivery let teams take ownership of services and then release updates to them quicker.
+                    <br>
+ 
+                   <b>Rapid Delivery</b>
+                    Increase the frequency and pace of releases so you can innovate and improve your product faster. The quicker you can release new features and fix bugs, the faster you can respond to your customers’ needs and build competitive advantage. Continuous integration and continuous delivery are practices that automate the software release process, from build to deploy.
+                    <br>
+
+machine learning 
+                   Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
+
+                    IBM has a rich history with machine learning. One of its own, Arthur Samuel, is credited for coining the term, “machine learning” with his research (PDF, 481 KB) (link resides outside IBM) around the game of checkers. Robert Nealey, the self-proclaimed checkers master, played the game on an IBM 7094 computer in 1962, and he lost to the computer. Compared to what can be done today, this feat almost seems trivial, but it’s considered a major milestone within the field of artificial intelligence. Over the next couple of decades, the technological developments around storage and processing power will enable some innovative products that we know and love today, such as Netflix’s recommendation engine or self-driving cars.
+                    
+                    Machine learning is an important component of the growing field of data science. Through the use of statistical methods, algorithms are trained to make classifications or predictions, uncovering key insights within data mining projects. These insights subsequently drive decision making within applications and businesses, ideally impacting key growth metrics. As big data continues to expand and grow, the market demand for data scientists will increase, requiring them to assist in the identification of the most relevant business questions and subsequently the data to answer them.
+                    
+databases     
+                   <h4>Types of databases</h4>
+                There are many different types of databases. The best database for a specific organization depends on how the organization intends to use the data.
+
+                 <b>Relational databases</b>
+                Relational databases became dominant in the 1980s. Items in a relational database are organized as a set of tables with columns and rows. Relational database technology provides the most efficient and flexible way to access structured information.
+                <br>
+                 <b>Object-oriented databases</b>
+                 Information in an object-oriented database is represented in the form of objects, as in object-oriented programming.
+                 <br>
+                 <b>Distributed databases</b>
+                A distributed database consists of two or more files located in different sites. The database may be stored on multiple computers, located in the same physical location, or scattered over different networks.
+                <br>
+                 <b>Data warehouses</b>
+                A central repository for data, a data warehouse is a type of database specifically designed for fast query and analysis.
+                <br>
+                 <b>NoSQL databases</b>
+                A NoSQL, or nonrelational database, allows unstructured and semistructured data to be stored and manipulated (in contrast to a relational database, which defines how all data inserted into the database must be composed). NoSQL databases grew popular as web applications became more common and more complex.
+                <br>  
+                <b>NoSQL databases</b> 
+                A graph database stores data in terms of entities and the relationships between entities.
+    
+fullstack    
+                If there were a diagram of the duties that Back End Web Developers handle and the duties that front end developers handle, the duties of a Full Stack Web Developer would be the part where the two diagrams combined. Indeed, in many cases, there is quite a bit of overlap between Front End and Back End Developers. It’s important to know the duties of Front End Developers and Back End Developers so you can know the duties that a Full Stack Developer may need to swing in and assist with.
+
+                      Front End Developers: - Deal with the interface and user-facing systems - Develop the navigation, interface, and visuals - Focus on user experience - Utilize HTML, CSS3, and JavaScript - Are the most aesthetically-forward web development position
+
+                      Back End Developers: - Deal with the server and database of the application - Create the back frame that allows the front end development to exist - Utilize Python, Ruby, and PHP - Store user information into database
+
+                      Full Stack Developers: - Cross-discipline web development skills involving front and back end - Deal with the overlap between the front end and back end - Utilize all the coding languages of the first two plus MySQL, machine learning, and more - Take responsibility for the entire experience to make sure it goes smoothly            
+
+
+  T consultant <br>
+                    Cybersecurity consultant. ...<br>
+                   Information systems manager. ...<br>
+                   Database administrator. ...<br>
+                    Multimedia programmer. ...<br>
+                    Systems analyst. ...<br>
+                    Games developer. ...<br>
+                    Technical writer.<br>
+               

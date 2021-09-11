@@ -1,0 +1,119 @@
+/*general css section  */
+
+
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: black;
+    color: white;
+    scroll-behavior: smooth;
+}
+
+h2{
+    color: #ff0000;
+    font-family: fantasy;
+    font-size: 5vh;
+}
+i{
+    color: white;
+}
+.main-grid{
+    display: grid;
+    grid-template-areas:
+    "heading heading heading heading"
+    "container container container container"
+    "footer footer footer footer" 
+    ;
+
+}
+.grid-child1{
+    grid-area: heading;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    gap: 30vh;
+    min-height: 20vh;
+    border-bottom: #fff solid 2px;
+}
+
+.tagline{
+    padding: 20px;
+
+}
+.social{
+    margin: auto;
+}
+/* lets give id to our social links */
+.media{
+    padding: 20px;
+}
+#navigators{
+    line-height: 80px;
+}
+li{
+    list-style: none;
+}
+#nav{
+    padding: 8px;
+    margin: 4px;
+    text-decoration: none;
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ff0000;
+    background-color: #fff;
+    border: solid 2px #ff0000;
+    border-radius: 20px;
+
+
+}
+#nav:hover{
+    transition: 1s;
+    color:#fff;
+    background-color: #ff0000;
+    box-shadow: 0 0 10px #ff0000,0 0 40px #ff0000,0 0 80px #ff0000;
+}
+
+
+.grid-child2{
+    grid-area: container;
+     display: flex;
+     flex-direction: row;
+     gap: 5vh;
+     min-height: 70vh;
+     
+
+}
+.content{
+    max-height: 70vh;
+    width: 70%;
+    margin-right: auto;
+    background-color: #fff;
+    padding: 1%;
+    color: black;
+    height: 60vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 5vh;
+    overflow-y: scroll;
+    margin: auto;
+    border-radius: 20px;
+}
+hr{
+    border-color: #ff0000;
+
+
+}
+.grid-child3{
+    grid-area: footer;
+    background-color: #ff0000;
+    color: #fff;
+    min-height: 10vh;
+    font-family: cursive;
+}
+/* just used this to align footer to the center */
+#footer-txt{
+    padding-left: 50%;
+
+}
+
+
